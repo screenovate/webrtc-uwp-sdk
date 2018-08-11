@@ -103,3 +103,24 @@ url=https://github.com/webrtc-uwp/googlemock.git
 [submodule "webrtc/xplatform/llvm/libcxxabi"]
 	path = webrtc/xplatform/llvm/libcxxabi
 	url = https://github.com/webrtc-uwp/libcxxabi.git
+[submodule "webrtc/xplatform/cryptopp"]
+	path = webrtc/xplatform/cryptopp
+	url = https://github.com/ortclib/cryptopp.git
+[submodule "webrtc/xplatform/icu"]
+	path = webrtc/xplatform/icu
+	url = https://github.com/webrtc-uwp/icu.git
+[submodule "webtc/xplatform/templates"]
+	path = webtc/xplatform/templates
+	url = https://github.com/webrtc-uwp/templates.git
+[submodule "webrtc/xplatform/templates"]
+	path = webrtc/xplatform/templates
+	url = https://github.com/webrtc-uwp/templates.git
+[submodule "webrtc/xplatform/webrtc-apis"]
+	path = webrtc/xplatform/webrtc-apis
+	url = https://github.com/webrtc-uwp/webrtc-apis.git
+[submodule "webrtc/xplatform/zsLib"]
+	path = webrtc/xplatform/zsLib
+	url = https://github.com/ortclib/zsLib.git
+[submodule "webrtc/xplatform/zsLib-eventing"]
+	path = webrtc/xplatform/zsLib-eventing
+	url = https://github.com/ortclib/zsLib-eventing.git
