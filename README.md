@@ -36,8 +36,16 @@ bin\prepare.bat
 <br />
 This script will prepare environment but it won't build webrtc projects. In this case webrtc project will be built from Visual Studio once you try to build Org.WebRtc.
 
-2) From VS2015, load webrtc\windows\solutions\WebRtc.sln for WebRtc development.
+2) From VS2017, load webrtc\windows\solutions\WebRtc.sln for WebRtc development.
 
 3) Now you can build winrt libraries for WebRtc and deploy sample apps ChatterBox and PeerCC.
+
+IMPORTANT NOTES:
+----------------------------
+Ensure that Git is properly configured to handle line endings. 
+Git setting for core.autocrlf MUST be set to true; 
+BEFORE running bin\prepare.bat, check current setting for core.autocrlf using command: 'git config -l', or 'git config core.autocrlf', and you can change setting to true using 'git config --global core.autocrlf true'. 
+
+Usefull links: https://help.github.com/articles/dealing-with-line-endings/ https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#__code_core_autocrlf_code (section core.autocrlf)
 
 ====
