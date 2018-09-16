@@ -1,6 +1,6 @@
 [submodule "bin"]
 	path = bin
-	url = https://github.com/ortclib/ortclib-scripts.git
+	url = https://github.com/webrtc-uwp/webrtc-bin.git
 [submodule "docs"]
 	path = docs
 	url = https://github.com/webrtc-uwp/webrtc-uwp.github.io.git
@@ -105,7 +105,7 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/libcxxabi.git
 [submodule "webrtc/xplatform/cryptopp"]
 	path = webrtc/xplatform/cryptopp
-	url = https://github.com/ortclib/cryptopp.git
+	url = https://github.com/webrtc-uwp/cryptopp.git
 [submodule "webrtc/xplatform/icu"]
 	path = webrtc/xplatform/icu
 	url = https://github.com/webrtc-uwp/icu.git
