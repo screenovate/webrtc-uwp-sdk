@@ -1,0 +1,12 @@
+# Python
+*.pyc
+
+# Generated
+userdef.py
+
+# Backup
+/Backup
+/Output
+
+# Update Sample
+/Published_Samples
