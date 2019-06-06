@@ -54,7 +54,7 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/PeerCC.git
 [submodule "webrtc/windows"]
 	path = webrtc/windows
-	url = https://github.com/webrtc-uwp/webrtc-windows.git
+	url = git@github.com:screenovate/webrtc-windows.git
 [submodule "common/windows/samples/AppRTC"]
 	path = common/windows/samples/AppRTC
 	url = https://github.com/webrtc-uwp/AppRTC.git
@@ -108,7 +108,7 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/templates.git
 [submodule "webrtc/xplatform/webrtc-apis"]
 	path = webrtc/xplatform/webrtc-apis
-	url = https://github.com/webrtc-uwp/webrtc-apis.git
+	url = git@github.com:screenovate/webrtc-apis.git
 [submodule "webrtc/xplatform/zsLib"]
 	path = webrtc/xplatform/zsLib
 	url = https://github.com/webrtc-uwp/zsLib.git
